@@ -44,12 +44,12 @@ rusFlag=loadImage('./assets/flag-russia.jpg');
 itaFlag=loadImage('./assets/flag-italy.jpg');
 myFont=loadFont('./assets/PressStart2P-Regular.ttf');
 
-bresnik=loadImage('./assets/astronauts/randy-bresnik.jpg');
-ryazansky=loadImage('./assets/astronauts/sergey-ryazansky.jpg');
-nespoli=loadImage('./assets/astronauts/paolo-nespoli.jpg');
-vandeHei=loadImage('./assets/astronauts/mark-vande-hei.jpg');
-acaba=loadImage('./assets/astronauts/joseph-acaba.jpg');
-misurkin=loadImage('./assets/astronauts/alexander-misurkin.jpg');
+bresnik=loadImage('https://howmanypeopleareinspacerightnow.com/app/biophotos/randy-bresnik.jpg');
+ryazansky=loadImage('https://howmanypeopleareinspacerightnow.com/app/biophotos/sergey-ryazansky.jpg');
+nespoli=loadImage('https://howmanypeopleareinspacerightnow.com/app/biophotos/paolo-nespoli.jpg');
+vandeHei=loadImage('https://howmanypeopleareinspacerightnow.com/app/biophotos/mark-vande-hei.jpg');
+acaba=loadImage('https://howmanypeopleareinspacerightnow.com/app/biophotos/joseph-acaba.jpg');
+misurkin=loadImage('https://howmanypeopleareinspacerightnow.com/app/biophotos/alexander-misurkin.jpg');
 
 }
 function setup() {
